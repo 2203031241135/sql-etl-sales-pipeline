@@ -89,7 +89,7 @@ These queries simulate real-world business intelligence reporting.
 **How to Run the Project**
 
 Clone the repository
-git clone https://github.com/yourusername/sql-etl-sales-pipeline.git
+git clone https://github.com/2203031241135/sql-etl-sales-pipeline.git
 Navigate to the project directory
 cd sql-etl-sales-pipeline
 Run the ETL pipeline
